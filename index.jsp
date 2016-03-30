@@ -19,6 +19,7 @@
                 <h2 class="page-header">Realizar un pago</h2>
                 <div class="form-group">
                     <label for="nombre">Nombre:</label>
+                    <label for="apellido">Apellido:</label>
                     <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Ingrese su nombre">
                 </div>
                 <div class="form-group">
