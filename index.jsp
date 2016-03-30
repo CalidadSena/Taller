@@ -32,5 +32,6 @@
                 <button type="submit" class="btn btn-primary btn-lg btn-block">Pagar</button>
             </form>
         </div>
+        <a href="https://www.google.com.co/">Ir a google</a>
     </body>
 </html>
