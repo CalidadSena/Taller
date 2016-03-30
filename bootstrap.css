@@ -245,6 +245,7 @@ th {
   h2,
   h3 {
     page-break-after: avoid;
+    background-color: black;
   }
   .navbar {
     display: none;
